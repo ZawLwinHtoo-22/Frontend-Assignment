@@ -1,0 +1,19 @@
+.l-header__logo {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: 5px;
+  font-size: 20px;
+  position: sticky;
+}
+.l-header__lstbox {
+  margin: 0 auto;
+  justify-content: space-between;
+  display: flex;
+  position: sticky;
+}
+.l-header__lst {
+  width: 33%;
+  text-align: center;
+  background-color: #27bdae;
+}/*# sourceMappingURL=style.css.map */
